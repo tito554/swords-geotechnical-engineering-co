@@ -1,0 +1,51 @@
+# Geotechnical Engineering — Swords
+
+> Geotechnical engineering services in Swords, Ireland.
+
+## Services
+- [Anchors](https://swords.geotechnical-engineering.co/anchors/)
+- [Atterberg Limits](https://swords.geotechnical-engineering.co/atterberg-limits/)
+- [Cbr Road](https://swords.geotechnical-engineering.co/cbr-road/)
+- [Cpt Test](https://swords.geotechnical-engineering.co/cpt-test/)
+- [Deep Excavations](https://swords.geotechnical-engineering.co/deep-excavations/)
+- [Excavation Monitoring](https://swords.geotechnical-engineering.co/excavation-monitoring/)
+- [Excavations](https://swords.geotechnical-engineering.co/excavations/)
+- [Flexible Pavement](https://swords.geotechnical-engineering.co/flexible-pavement/)
+- [Footings](https://swords.geotechnical-engineering.co/footings/)
+- [Foundations](https://swords.geotechnical-engineering.co/foundations/)
+- [Grain Size](https://swords.geotechnical-engineering.co/grain-size/)
+- [Ground Improvement](https://swords.geotechnical-engineering.co/ground-improvement/)
+- [Grouting](https://swords.geotechnical-engineering.co/grouting/)
+- [In Situ Permeability](https://swords.geotechnical-engineering.co/in-situ-permeability/)
+- [Investigation](https://swords.geotechnical-engineering.co/investigation/)
+- [Lab In Situ](https://swords.geotechnical-engineering.co/lab-in-situ/)
+- [Laboratory](https://swords.geotechnical-engineering.co/laboratory/)
+- [Liquefaction](https://swords.geotechnical-engineering.co/liquefaction/)
+- [Masw](https://swords.geotechnical-engineering.co/masw/)
+- [Mat Foundations](https://swords.geotechnical-engineering.co/mat-foundations/)
+- [Piles](https://swords.geotechnical-engineering.co/piles/)
+- [Proctor Tests](https://swords.geotechnical-engineering.co/proctor-tests/)
+- [Resistivity](https://swords.geotechnical-engineering.co/resistivity/)
+- [Retaining Walls](https://swords.geotechnical-engineering.co/retaining-walls/)
+- [Rigid Pavement](https://swords.geotechnical-engineering.co/rigid-pavement/)
+- [Road Geotechnics](https://swords.geotechnical-engineering.co/road-geotechnics/)
+- [Sand Cone Density](https://swords.geotechnical-engineering.co/sand-cone-density/)
+- [Seismic](https://swords.geotechnical-engineering.co/seismic/)
+- [Seismic Isolation](https://swords.geotechnical-engineering.co/seismic-isolation/)
+- [Seismic Microzonation](https://swords.geotechnical-engineering.co/seismic-microzonation/)
+- [Seismic Refraction](https://swords.geotechnical-engineering.co/seismic-refraction/)
+- [Slope Stability](https://swords.geotechnical-engineering.co/slope-stability/)
+- [Slopes](https://swords.geotechnical-engineering.co/slopes/)
+- [Soft Ground Tunnels](https://swords.geotechnical-engineering.co/soft-ground-tunnels/)
+- [Spt Drilling](https://swords.geotechnical-engineering.co/spt-drilling/)
+- [Stone Columns](https://swords.geotechnical-engineering.co/stone-columns/)
+- [Test Pits](https://swords.geotechnical-engineering.co/test-pits/)
+- [Triaxial](https://swords.geotechnical-engineering.co/triaxial/)
+- [Vibrocompaction](https://swords.geotechnical-engineering.co/vibrocompaction/)
+
+## Contact
+- Website: https://swords.geotechnical-engineering.co/
+
+## About
+This site provides geotechnical engineering services in Swords, Ireland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
